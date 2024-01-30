@@ -1,0 +1,22 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+	<h1>Recipes</h1>
+	<table>
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Name</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for recipe in object_list %}
+				<tr>
+					<th>{{ recipe.id }}</th>
+					<th>{{ recipe.name }}</th>
+				</tr>
+			{% endfor %}
+
+		</tbody>
+	</table>
+{% endblock %}

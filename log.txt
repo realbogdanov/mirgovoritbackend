@@ -1,0 +1,12 @@
+2024-01-29 23:17:24,359 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-01-29 23:17:32,868 [WARNING] django.request: Not Found: /
+2024-01-29 23:18:50,164 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-01-29 23:19:00,780 [WARNING] django.request: Not Found: /
+2024-01-29 23:19:19,701 [WARNING] django.request: Not Found: /
+2024-01-29 23:25:41,944 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-01-29 23:28:00,630 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-01-29 23:28:02,253 [WARNING] django.request: Not Found: /
+2024-01-29 23:38:19,153 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-01-29 23:38:20,519 [WARNING] django.request: Not Found: /
+2024-01-29 23:44:57,715 [INFO] django.utils.autoreload: /Users/vasiliibogdanov/PycharmProjects/mirgovoritbackend/cookbookapp/views.py changed, reloading.
+2024-01-29 23:44:58,213 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
